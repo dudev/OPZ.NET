@@ -1,0 +1,9 @@
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\OPZ\OPZ\bin\Debug\OPZ.exe.config
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\OPZ\OPZ\bin\Debug\OPZ.exe
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\OPZ\OPZ\bin\Debug\OPZ.pdb
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\OPZ\OPZ\obj\Debug\OPZ.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\OPZ\OPZ\obj\Debug\OPZ.Form1.resources
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\OPZ\OPZ\obj\Debug\OPZ.Properties.Resources.resources
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\OPZ\OPZ\obj\Debug\OPZ.csproj.GenerateResource.Cache
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\OPZ\OPZ\obj\Debug\OPZ.exe
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\OPZ\OPZ\obj\Debug\OPZ.pdb
